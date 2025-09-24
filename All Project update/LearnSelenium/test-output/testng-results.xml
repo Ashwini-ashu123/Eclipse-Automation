@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T15:42:58 IST" name="Default suite" finished-at="2025-09-09T15:43:09 IST" duration-ms="11129">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T15:42:58 IST" name="Default test" finished-at="2025-09-09T15:43:09 IST" duration-ms="11129">
+      <class name="testNG.day1">
+        <test-method signature="learntest()[pri:0, instance:testNG.day1@6771beb3]" started-at="2025-09-09T15:42:58 IST" name="learntest" finished-at="2025-09-09T15:43:09 IST" duration-ms="11057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- learntest -->
+      </class> <!-- testNG.day1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
