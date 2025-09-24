@@ -1,4 +1,0 @@
-Sample content that transfer the data from local to repo in git
-and save that folders
-
-token : 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
